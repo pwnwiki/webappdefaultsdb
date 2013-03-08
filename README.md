@@ -64,10 +64,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>CMSimple</td><td>&nbsp;</td><td>admin</td><td>test</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsimple</td></tr>
  <tr><td>Composite C1</td><td>/Administration</td><td>admin@<samplestore>.com</td><td>admin</td><td>&nbsp;</td><td>Username may be admin@yourstore.com</td><td>&nbsp;</td></tr>
  <tr><td>Computhink ViewWise</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Concrete5</td><td>/index.php/login (alternatively /dashboard) </td><td>admin</td><td>random set at install</td><td>&nbsp;</td><td>"Yep, great tip. When you go to logs (after resetting the password), you </td></tr>
- <tr><td>tick the box for emails sent and click on print view with full text. </td></tr>
- <tr><td>This opens the email that was sent with the link to set a new password. </td></tr>
- <tr><td>Click on that link and it will open a new browser window."</td><td>http://exploitsdownload.com/search/concrete5</td></tr>
+ <tr><td>Concrete5</td><td>/index.php/login (alternatively /dashboard) </td><td>admin</td><td>random set at install</td><td>"Yep, great tip. When you go to logs (after resetting the password), you tick the box for emails sent and click on print view with full text. This opens the email that was sent with the link to set a new password. Click on that link and it will open a new browser window."</td><td>http://exploitsdownload.com/search/concrete5</td></tr>
  <tr><td>Contegro</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Hosted on Contegro. </td><td>&nbsp;</td></tr>
  <tr><td>Content SORT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>WP plugin</td><td>&nbsp;</td></tr>
  <tr><td>CoreMedia WCM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><- Magic Quadrant Masterbaters</td><td>&nbsp;</td></tr>
