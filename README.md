@@ -17,6 +17,7 @@ If you wish to submit via git, please use the following field types:
 
 * ADMINURL: 
 * USERPASS: 
+* SIGNATURE: 
 * INTERESTINGURL: 
 * EXPLOITLINK: 
 * COMMENT: 
@@ -30,6 +31,7 @@ Info: This webapp falls over if you hit /dos.php on version 1.0 and prior
 
 * ADMINURL: /admin/uberleet.php 
 * USERPASS: root:toor
+* SIGNATURE: Uberleet Admin Page
 * INTERESTINGURL: /database_test.php
 * EXPLOITLINK: [http://exploitsdownload.com/search/cms](http://exploitsdownload.com/search/cms)
 * COMMENT: Usernames with be user@domain.com
