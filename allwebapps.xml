@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<allwebsites>
+<entry>
+<website name="Accrisoft Freedom" adminurl="/admin.php" comment="Green == Full Admin &amp; Blue == Updating" />
+</entry>
+<entry>
+<website name="AdaptCMS Lite" adminurl="/AdaptCMS/admin.php" exploitlink="http://www.exploit-db.com/search/?action=search&amp;filter_page=1&amp;filter_exploit_text=adaptcms" />
+</entry>
+<entry>
+<website name="Adobe Business Catalyst" adminurl="/admin" />
+</entry>
+<entry>
+<website name="Adobe CQ5" adminurl="/crx &amp; /system/console" />
+</entry>
+<entry>
+<website name="Alfresco Community Edition" adminurl="8080/alfresco/service/api/login?u=&amp;pw=" userpass="admin:admin" exploitlink="http://exploitsdownload.com/search/alfresco/" documentation="http://docs.alfresco.com/3.4/index.jsp?topic=%2Fcom.alfresco.Enterprise_3_4_0.doc%2Fconcepts%2Fadminconsole-intro.html" />
+</entry>
+<entry>
+<website name="Apache Lenya" adminurl="/default/live/user.html" userpass="admin:levi" documentation="http://lenya.apache.org/docu20/tutorials/newPublication14.html" />
+</entry>
+<entry>
+<website name="ATutor" adminurl="/users/admin.php" userpass="instructor:instructor &amp; admin:admin" exploitlink="http://exploitsdownload.com/search/atutor" documentation="http://atutor.ca/atutor/docs/installation_pre_1_3.php" />
+</entry>
+<entry>
+<website name="Autonomy Interwoven Teamsite CMS" adminurl="/iw/tsadmin" />
+</entry>
+<entry>
+<website name="b2evolution" adminurl="/admin.php &amp; /admin" exploitlink="http://exploitsdownload.com/search/b2evolution" documentation="http://manual.b2evolution.net/Main_Page" />
+</entry>
+<entry>
+<website name="BEdita" adminurl="/bedita-app/admin" exploitlink="http://exploitsdownload.com/search/bedita" documentation="http://api.bedita.com/search.php?query=admin" />
+</entry>
+<entry>
+<website name="BLOG:CMS" adminurl="/admin" exploitlink="http://exploitsdownload.com/search/blog:cms" />
+</entry>
+<entry>
+<website name="blosxom" adminurl="/blosxom/blogs/admin" />
+</entry>
+<entry>
+<website name="Bricolage" adminurl="/login" userpass="admin:change me now!" documentation="http://bricolagecms.org/docs/2.0/api/Bric/Admin.html" />
+</entry>
+<entry>
+<website name="Kmita Admin" adminurl="/kmitaadmin/" userpass="admin:admin" documentation="http://www.kmitaadmin.com/" />
+</entry>
+</allwebsites>
