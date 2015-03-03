@@ -99,6 +99,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>IBM Lotus Web Content Management</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Ikiwiki</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>ImpressCMS</td><td>/admin.php</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>inSync</td><td>/GoAdmin</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>http://support-public.cfm.software.dell.com/ddbeaa24-9332-4506-bda8-aceeef47af34:602964.pdf</td></tr>
  <tr><td>Jadu</td><td>"/mymicrosite/jadu/</td></tr>
  <tr><td>        </td></tr>
  <tr><td>"</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
