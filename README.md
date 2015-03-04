@@ -9,17 +9,16 @@ Updated and released by the Web App Defaults DB Group
 
 If you have info and don't want to trouble with Git, please feel free to shoot the info to:
 
-webappdefaultsdb_submissions@room362.com
+webappdefaultsdb@gmail.com 
 
 and let us worry about the repo voodoo.
 
 If you wish to submit via git, please use the following field types:
 
-* ADMINURL: 
-* USERPASS: 
-* INTERESTINGURL: 
-* EXPLOITLINK: 
-* COMMENT: 
+* AdminURL: 
+* UserPass: 
+* Comment: 
+* Link:
 
 This will make it much easier for people to parse the entire db for information.
 
@@ -30,9 +29,8 @@ Info: This webapp falls over if you hit /dos.php on version 1.0 and prior
 
 * ADMINURL: /admin/uberleet.php 
 * USERPASS: root:toor
-* INTERESTINGURL: /database_test.php
-* EXPLOITLINK: [http://exploitsdownload.com/search/cms](http://exploitsdownload.com/search/cms)
 * COMMENT: Usernames with be user@domain.com
+* LINK: [http://exploitsdownload.com/search/cms](http://exploitsdownload.com/search/cms)
 
 Documentation: [http://www.wikipedia.org/](http:/www.wikipedia.org/)
 
