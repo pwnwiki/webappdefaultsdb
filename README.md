@@ -54,8 +54,8 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 
 <table>
 <tr><td><b>Name</b></td><td><b>URL</b></td><td><b>Username</b></td><td><b>Password</b></td><td><b>Comment</b></td><td><b>Link</b></td>
- <tr><td>Barracuda SSL VPN</td><td>https://host.com/default/showLogon.do</td><td>ssladmin</td><td>ssladmin</td><td></td><td>&nbsp;</td><td>https://techlib.barracuda.com/sslvpn/admininterfaces</td></tr>
- <tr><td>Barracuda SSL VPN Admin</td><td>http://host.com:8000/cgi-mod/index.cgi</td><td>admin</td><td>admin</td><td></td><td>&nbsp;</td><td>https://techlib.barracuda.com/sslvpn/admininterfaces</td></tr>
+ <tr><td>Barracuda SSL VPN</td><td>/default/showLogon.do</td><td>ssladmin</td><td>ssladmin</td><td></td><td>&nbsp;</td><td>https://techlib.barracuda.com/sslvpn/admininterfaces</td></tr>
+ <tr><td>Barracuda SSL VPN Admin</td><td>.com:8000/cgi-mod/index.cgi</td><td>admin</td><td>ssladmin</td><td></td><td>&nbsp;</td><td>https://techlib.barracuda.com/sslvpn/admininterfaces</td></tr>
  <tr><td>Cascade Server</td><td>/login.act</td><td>&nbsp;</td><td>&nbsp;</td><td>http://help.hannonhill.com/kb/security</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>CivicSpace</td><td>To be determined</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Clickability (Limelight Networks)</td><td>hosted by limelight?</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
