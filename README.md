@@ -16,7 +16,8 @@ and let us worry about the repo voodoo.
 If you wish to submit via git, please use the following field types:
 
 * AdminURL: 
-* UserPass: 
+* User
+* Pass: 
 * Comment: 
 * Link:
 
@@ -28,7 +29,8 @@ For example:
 Info: This webapp falls over if you hit /dos.php on version 1.0 and prior
 
 * ADMINURL: /admin/uberleet.php 
-* USERPASS: root:toor
+* USER: root
+* PASS:  toor
 * COMMENT: Usernames with be user@domain.com
 * LINK: [http://exploitsdownload.com/search/cms](http://exploitsdownload.com/search/cms)
 
