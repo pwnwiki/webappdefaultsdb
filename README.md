@@ -30,7 +30,7 @@ Info: This webapp falls over if you hit /dos.php on version 1.0 and prior
 
 * ADMINURL: /admin/uberleet.php 
 * USER: root
-* PASS:  toor
+* PASS: toor
 * COMMENT: Usernames with be user@domain.com
 * LINK: [http://exploitsdownload.com/search/cms](http://exploitsdownload.com/search/cms)
 
