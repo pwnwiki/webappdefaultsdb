@@ -78,7 +78,10 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>DSpace</td><td>(dspace?).site.com/admin </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>DynPG</td><td>/cms or /dynpg</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dynpg</td></tr>
  <tr><td>e107</td><td><siteURL>/<Basedir>/e107_admin/admin.php?view.all</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/e107</td></tr>
- <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>admin</td><td>admin</td><td>documentation.ektron.com/CMS400/v70/adminmanual.pdf</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>admin</td><td>admin</td><td>All permissions</td><td>documentation.ektron.com/CMS400/v70/adminmanual.pdf</td></tr>
+ <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>builtin</td><td>builtin</td><td>All permissions</td><td>documentation.ektron.com/CMS400/v70/adminmanual.pdf</td></tr>
+ <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>jedit</td><td>jedit</td><td>Basic permissions</td><td>http://documentation.ektron.com/cms400/v802/mobile_help/Advanced/Content/Getting%20Started/Logging%20In%20and%20Out/loginandout_login.htm</td></tr>
+ <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>jmember</td><td>jmember</td><td>Read-Only permissions</td><td>http://documentation.ektron.com/cms400/v802/mobile_help/Advanced/Content/Getting%20Started/Logging%20In%20and%20Out/loginandout_login.htm</td></tr>
  <tr><td>Elcom CMS</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/elcom</td></tr>
  <tr><td>EMC Documentum ECM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>EPrints</td><td>/perl/users/home</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
