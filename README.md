@@ -168,6 +168,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 * Sitefinity CMS
 * Sitekit CMS
 * SMW+
+* Solarwinds Web HelpDesk
 * SPIP
 * Squiz CMS
 * Squiz Matrix
@@ -312,6 +313,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>Sitefinity CMS</td><td>/Sitefinity/LoginPages/LoginForm</td><td>admin</td><td>Password</td><td>http://www.sitefinity.com/devnet/kb.aspx</td><td>If you see telerik.rad it's sitefinity</td><td>http://exploitsdownload.com/search/sitefinity</td></tr>
  <tr><td>Sitekit CMS</td><td>/admin</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.sitekit.net</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>SMW+</td><td>&nbsp;</td><td>root</td><td>m8nix</td><td>http://www.smwplus.com/index.php/Help:SMW%2B</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/smwplus</td></tr>
+ <tr><td>SolarWinds Web Helpdesk</td><td>https://ip_address:5480/</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>http://www.solarwinds.com/documentation/WebHelpDesk/docs/WHDAdminGuide12-2-0.pdf</td></tr>
  <tr><td>SPIP</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Squiz CMS</td><td>/_edit</td><td>admin/editor/approver</td><td>password</td><td>http://cms.squizsuite.net/quick-start-guide/</td><td>admin password should be changed</td><td>http://exploitsdownload.com/search?q=squiz</td></tr>
  <tr><td>Squiz Matrix</td><td>/_admin</td><td>root</td><td>root</td><td>http://matrix.squizsuite.net/quick-start-guide/</td><td>&nbsp;</td><td>http://exploitsdownload.com/search?q=squiz</td></tr>
