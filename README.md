@@ -318,6 +318,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>SPIP</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Squiz CMS</td><td>/_edit</td><td>admin/editor/approver</td><td>password</td><td>http://cms.squizsuite.net/quick-start-guide/</td><td>admin password should be changed</td><td>http://exploitsdownload.com/search?q=squiz</td></tr>
  <tr><td>Squiz Matrix</td><td>/_admin</td><td>root</td><td>root</td><td>http://matrix.squizsuite.net/quick-start-guide/</td><td>&nbsp;</td><td>http://exploitsdownload.com/search?q=squiz</td></tr>
+ <tr><td>SuperMicro IPMI BMC</td><td>/</td><td>ADMIN</td><td>ADMIN</td><td></td><td>http://supermicro.com/manuals/other/SMT_IPMI_Manual.pdf</td></tr>http://supermicro.com/manuals/other/SMT_IPMI_Manual.pdf 
  <tr><td>TangoCMS</td><td>index.php?url=session or /session</td><td>&nbsp;</td><td>&nbsp;</td><td>http://tangocms.org/announcements?page=2</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Telligent Community</td><td>/telligent_evolution</td><td>admin</td><td>pa$$word</td><td>&nbsp;</td><td>check for /solr/admin</td><td>&nbsp;</td></tr>
  <tr><td>Textpattern</td><td>/textpattern/index.php or /textpattern/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search?q=textpattern</td></tr>
