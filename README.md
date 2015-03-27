@@ -213,6 +213,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>CoreMedia WCM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><- Magic Quadrant Masterbaters</td><td>&nbsp;</td></tr>
  <tr><td>Cotonti</td><td>/admin.php</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cotonti</td></tr>
  <tr><td>Daisy</td><td>/login</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>Dell SonicWall Analyzer</td><td>/sgms/login</td><td>admin</td><td>password</td><td>&nbsp;</td><td>https://support.software.dell.com/download/downloads?id=5477891&ei=fhQTVZHWMZO1sQTxo4KAAw&usg=AFQjCNG2yGbefRqEta9Nhq73or00BYFY4Q&bvm=bv.89217033,d.eXY&cad=rja</td></tr>
  <tr><td>Django-cms</td><td>/admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/django</td></tr>
  <tr><td>Dokuwiki</td><td>/dokuwiki?do=login</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dokuwiki</td></tr>
  <tr><td>Dotclear</td><td>/dotclear/admin/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotclear</td></tr>
