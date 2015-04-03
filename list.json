@@ -16,7 +16,7 @@
 	{"name":"Ektron CMS400.Net (builtin)", "protocol":"http", "url":"/workarea/login.aspx", "port":"80", "username":"builtin", "password":"builtin", "comment":"", "link":"documentation.ektron.com/CMS400/v70/adminmanual.pdf"},
 	{"name":"Ektron CMS400.Net (jedit)", "protocol":"http", "url":"/workarea/login.aspx", "port":"80", "username":"jedit", "password":"jedit", "comment":"", "link":"http://documentation.ektron.com/cms400/v802/mobile_help/Advanced/Content/Getting%20Started/Logging%20In%20and%20Out/loginandout_login.htm"},
 	{"name":"Ektron CMS400.Net (jmember)", "protocol":"http", "url":"/workarea/login.aspx", "port":"80", "username":"jmember", "password":"jmember", "comment":"", "link":"http://documentation.ektron.com/cms400/v802/mobile_help/Advanced/Content/Getting%20Started/Logging%20In%20and%20Out/loginandout_login.htm"},
-	{"name":"EPrints", "protocol":"http", "url":"/perl/users/home", "port":"80", "username":"admin", "password":"admin", "comment":"", "link":"",
+	{"name":"EPrints", "protocol":"http", "url":"/perl/users/home", "port":"80", "username":"admin", "password":"admin", "comment":"", "link":""},
 	{"name":"Exsite Webware", "protocol":"http", "url":"/cgi-bin/", "port":"80", "username":"admin", "password":"password", "comment":"", "link":""},
 	{"name":"eZ Publish", "protocol":"http", "url":"/", "port":"80", "username":"admin", "password":"publish", "comment":"", "link":"https://doc.ez.no/eZ-Publish/User-manual/4.x/The-administration-interface/The-login-page"},
 	{"name":"Frog CMS", "protocol":"http", "url":"/admin/", "port":"80", "username":"admin", "password":"password", "comment":"", "link":""},
