@@ -1,6 +1,6 @@
 {"defaults":[
-    {"name":"Barracuda SSL VPN", "protocol":"http", "url":"/default/showLogon.do", "port":"80", "username":"ssladmin", "password":"ssladmin", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"},
-    {"name":"Barracuda SSL VPN Admin", "protocol":"http", "url":"/cgi-mod/index.cgi", "port":"8000", "username":"admin", "password":"admin", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"},
+	{"name":"Barracuda SSL VPN", "protocol":"http", "url":"/default/showLogon.do", "port":"80", "username":"ssladmin", "password":"ssladmin", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"},
+	{"name":"Barracuda SSL VPN Admin", "protocol":"http", "url":"/cgi-mod/index.cgi", "port":"8000", "username":"admin", "password":"admin", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"},
 	{"name":"Cascade Server", "protocol":"http", "url":"/login.act", "port":"80", "username":"", "password":"", "comment":"", "link":"http://help.hannonhill.com/kb/security"},
 	{"name":"CivicSpace", "protocol":"http", "url":"/default/showLogon.do", "port":"80", "username":"ssladmin", "password":"ssladmin", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"}, 
 	{"name":"CMSimple", "protocol":"http", "url":"/?Welcome_to_CMSimple&login", "port":"80", "username":"", "password":"test", "comment":"", "link":"http://cmsimple.org/doku/en/?Installation___The_Installation"},
