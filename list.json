@@ -53,5 +53,5 @@
 	{"name":"Squiz CMS", "protocol":"http", "url":"/_admin", "port":"80", "username":"root", "password":"root", "comment":"", "link":"https://manuals.matrix.squizsuite.net/evaluate-squiz-matrix"},
 	{"name":"SuperMicro IPMI BMC", "protocol":"http", "url":"/", "port":"80", "username":"ADMIN", "password":"ADMIN", "comment":"", "link":"http://supermicro.com/manuals/other/SMT_IPMI_Manual.pdf"},
 	{"name":"Telligent Community", "protocol":"http", "url":"/telligent_evolution", "port":"80", "username":"admin", "password":"pa$$word", "comment":"", "link":"http://community.zimbra.com/documentation/w/documentation/3840.install-telligent-evolution"},
-	{"name":"Umbraco", "protocol":"http", "url":"/umbraco/login.aspx", "port":"80", "username":"admin", "password":"default", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"},
+	{"name":"Umbraco", "protocol":"http", "url":"/umbraco/login.aspx", "port":"80", "username":"admin", "password":"default", "comment":"", "link":"https://techlib.barracuda.com/sslvpn/admininterfaces"}
 ]}
